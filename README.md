@@ -13,7 +13,7 @@ Visual inspection of civil infrastructure is customarily used to identify and ev
 
 ## Source Code & Data
 * All source code are released in this repository. 
-* You can download original images and results from this link [[**Link**]](https://drive.google.com/open?id=1G3zzx71aPPXgfMmiUMbU9Ygj2y-J96ws). 
+* You can download original images and results from this link [[**Link**]](https://drive.google.com/file/d/10nZqnI6R41G3BciTGMjbMa3uzCGq55qJ/view?usp=sharing). 
 * If you use the code and images for your publication, **please cite my paper(s).**
 
 ## Collaborator
@@ -27,7 +27,7 @@ I acknowledge support from National Science Foundation under Grant No. NSF-CNS-1
 **Display the outcomes in the paper**  
 
 1. Clone (or download) the source code in github into a directory of your choice. 
-2. Download and unzip images and output data from the above [**link**](https://drive.google.com/open?id=1G3zzx71aPPXgfMmiUMbU9Ygj2y-J96ws) and allocate them in the same directory. In the directory, you will have folders of "code","img" and "post". You can also manually setup the path of "img" in `Parameters.m`.
+2. Download and unzip images and output data from the above [**link**](https://drive.google.com/file/d/10nZqnI6R41G3BciTGMjbMa3uzCGq55qJ/view?usp=sharing) and allocate them in the same directory. In the directory, you will have folders of "code","img" and "post". You can also manually setup the path of "img" in `Parameters.m`.
 3. Run `RunOutput.m`. 
 
 **Train your own classifier using your images**
